@@ -2,6 +2,9 @@
 
 ## 喜歡請給個星星吧Orz
 
+## there is some pin map bug,pleace wait for debuging
+
+
 This is RTLduino RTL8720DN fritzing part  
 ![圖例](./Rtlduino.svg)  
 你可以自由使用這個fritzing part  
