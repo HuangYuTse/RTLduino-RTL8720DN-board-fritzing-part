@@ -44,11 +44,11 @@
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1904"
+     inkscape:window-height="1001"
+     inkscape:window-x="627"
+     inkscape:window-y="45"
+     inkscape:window-maximized="0"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -79,7 +79,7 @@
        y="46.234016" />
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="137.90642"
        y="54.947918"
        id="use897"
@@ -89,10 +89,10 @@
          id="tspan987"
          x="137.90642"
          y="54.947918"
-         style="font-size:5 ;stroke-width:0.264583">5VDD</tspan></text>
+         style="font-size:5;stroke-width:0.264583">VIN</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="137.90642"
        y="62.174034"
        id="use899"
@@ -102,11 +102,11 @@
          id="tspan991"
          x="137.90642"
          y="62.174034"
-         style="font-size:5 ;stroke-width:0.264583"
+         style="font-size:5;stroke-width:0.264583"
          dy="0">GND</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="137.90642"
        y="69.400146"
        id="use901"
@@ -116,10 +116,10 @@
          id="tspan995"
          x="137.90642"
          y="69.400146"
-         style="font-size:5 ;stroke-width:0.264583">NC</tspan></text>
+         style="font-size:5;stroke-width:0.264583">NC</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="137.90642"
        y="76.626266"
        id="use903"
@@ -129,10 +129,10 @@
          id="tspan999"
          x="137.90642"
          y="76.626266"
-         style="font-size:5 ;stroke-width:0.264583">EN</tspan></text>
+         style="font-size:5;stroke-width:0.264583">CHIP-EN</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="137.90642"
        y="83.852386"
        id="use905"
@@ -142,10 +142,10 @@
          id="tspan1003"
          x="137.90642"
          y="83.852386"
-         style="font-size:5 ;stroke-width:0.264583">VDD33</tspan></text>
+         style="font-size:5;stroke-width:0.264583">3V3</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="137.90642"
        y="91.078506"
        id="use907"
@@ -155,10 +155,10 @@
          id="tspan1007"
          x="137.90642"
          y="91.078506"
-         style="font-size:5 ;stroke-width:0.264583">GND</tspan></text>
+         style="font-size:5;stroke-width:0.264583">GND</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="137.90642"
        y="98.304611"
        id="use909"
@@ -168,10 +168,10 @@
          id="tspan1011"
          x="137.90642"
          y="98.304611"
-         style="font-size:5 ;stroke-width:0.264583">GPIOC1</tspan></text>
+         style="font-size:5;stroke-width:0.264583">PA12</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="137.90642"
        y="105.53073"
        id="use911"
@@ -181,10 +181,10 @@
          id="tspan1015"
          x="137.90642"
          y="105.53073"
-         style="font-size:5 ;stroke-width:0.264583">GPIOC3</tspan></text>
+         style="font-size:5;stroke-width:0.264583">PA30</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="137.90642"
        y="112.75685"
        id="use913"
@@ -194,10 +194,10 @@
          id="tspan1019"
          x="137.90642"
          y="112.75685"
-         style="font-size:5 ;stroke-width:0.264583">GPIOC0</tspan></text>
+         style="font-size:5;stroke-width:0.264583">PA14</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="137.90642"
        y="119.98296"
        id="use915"
@@ -207,10 +207,10 @@
          id="tspan1023"
          x="137.90642"
          y="119.98296"
-         style="font-size:5 ;stroke-width:0.264583">GPIOC2</tspan></text>
+         style="font-size:5;stroke-width:0.264583">PA13</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="137.90642"
        y="127.20908"
        id="use917"
@@ -220,10 +220,10 @@
          id="tspan1027"
          x="137.90642"
          y="127.20908"
-         style="font-size:5 ;stroke-width:0.264583">GPIOE1</tspan></text>
+         style="font-size:5;stroke-width:0.264583">PA8</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="137.90642"
        y="134.4352"
        id="use919"
@@ -233,10 +233,10 @@
          id="tspan1031"
          x="137.90642"
          y="134.4352"
-         style="font-size:5 ;stroke-width:0.264583">GPIOE2</tspan></text>
+         style="font-size:5;stroke-width:0.264583">PA26</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="137.90642"
        y="141.6613"
        id="use921"
@@ -246,10 +246,10 @@
          id="tspan1035"
          x="137.90642"
          y="141.6613"
-         style="font-size:5 ;stroke-width:0.264583">NC</tspan></text>
+         style="font-size:5;stroke-width:0.264583">NC</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="137.90642"
        y="148.88742"
        id="use923"
@@ -259,10 +259,10 @@
          id="tspan1039"
          x="137.90642"
          y="148.88742"
-         style="font-size:5 ;stroke-width:0.264583">GPIOE3</tspan></text>
+         style="font-size:5;stroke-width:0.264583">PA27</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="138.70016"
        y="156.11354"
        id="use925"
@@ -272,10 +272,10 @@
          id="tspan1043"
          x="138.70016"
          y="156.11354"
-         style="font-size:5 ;stroke-width:0.264583">GPIOE4</tspan></text>
+         style="font-size:5;stroke-width:0.264583">PA15</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="75.506126"
        y="54.947918"
        id="text1049"
@@ -285,10 +285,10 @@
          id="tspan1047"
          x="75.506126"
          y="54.947918"
-         style="font-size:5 ;stroke-width:0.264583">VDD33</tspan></text>
+         style="font-size:5;stroke-width:0.264583">3V3</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="75.506126"
        y="62.174034"
        id="text1053"
@@ -298,10 +298,10 @@
          id="tspan1051"
          x="75.506126"
          y="62.174034"
-         style="font-size:5 ;stroke-width:0.264583">GND</tspan></text>
+         style="font-size:5;stroke-width:0.264583">GND</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="75.506126"
        y="69.400146"
        id="text1057"
@@ -311,10 +311,10 @@
          id="tspan1055"
          x="75.506126"
          y="69.400146"
-         style="font-size:5 ;stroke-width:0.264583">GPIOB0</tspan></text>
+         style="font-size:5;stroke-width:0.264583">PB1</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="75.506126"
        y="76.626266"
        id="text1061"
@@ -324,10 +324,10 @@
          id="tspan1059"
          x="75.506126"
          y="76.626266"
-         style="font-size:5 ;stroke-width:0.264583">GPIOB1</tspan></text>
+         style="font-size:5;stroke-width:0.264583">PB2</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="75.506126"
        y="83.852386"
        id="text1065"
@@ -337,10 +337,10 @@
          id="tspan1063"
          x="75.506126"
          y="83.852386"
-         style="font-size:5 ;stroke-width:0.264583">GPIOA4</tspan></text>
+         style="font-size:5;stroke-width:0.264583">PA7</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="75.506126"
        y="91.078506"
        id="text1069"
@@ -350,10 +350,10 @@
          id="tspan1067"
          x="75.506126"
          y="91.078506"
-         style="font-size:5 ;stroke-width:0.264583">GPIOA0</tspan></text>
+         style="font-size:5;stroke-width:0.264583">NC</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="75.506126"
        y="98.304611"
        id="text1073"
@@ -363,10 +363,10 @@
          id="tspan1071"
          x="75.506126"
          y="98.304611"
-         style="font-size:5 ;stroke-width:0.264583">GPIOE0</tspan></text>
+         style="font-size:5;stroke-width:0.264583">PA25</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="75.506126"
        y="105.53073"
        id="text1077"
@@ -376,10 +376,10 @@
          id="tspan1075"
          x="75.506126"
          y="105.53073"
-         style="font-size:5 ;stroke-width:0.264583">GPIOC5</tspan></text>
+         style="font-size:5;stroke-width:0.264583">PB3</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="75.506126"
        y="112.75685"
        id="text1081"
@@ -389,10 +389,10 @@
          id="tspan1079"
          x="75.506126"
          y="112.75685"
-         style="font-size:5 ;stroke-width:0.264583">GND</tspan></text>
+         style="font-size:5;stroke-width:0.264583">GND</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="75.506126"
        y="119.98296"
        id="text1085"
@@ -402,10 +402,10 @@
          id="tspan1083"
          x="75.506126"
          y="119.98296"
-         style="font-size:5 ;stroke-width:0.264583">VDD33</tspan></text>
+         style="font-size:5;stroke-width:0.264583">3V3</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="75.506126"
        y="127.20908"
        id="text1089"
@@ -415,10 +415,10 @@
          id="tspan1087"
          x="75.506126"
          y="127.20908"
-         style="font-size:5 ;stroke-width:0.264583">GPIOC4</tspan></text>
+         style="font-size:5;stroke-width:0.264583">NC</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="75.506126"
        y="134.4352"
        id="text1093"
@@ -428,10 +428,10 @@
          id="tspan1091"
          x="75.506126"
          y="134.4352"
-         style="font-size:5 ;stroke-width:0.264583">GPIOA5</tspan></text>
+         style="font-size:5;stroke-width:0.264583">NC</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="75.506126"
        y="141.6613"
        id="text1097"
@@ -441,10 +441,10 @@
          id="tspan1095"
          x="75.506126"
          y="141.6613"
-         style="font-size:5 ;stroke-width:0.264583">NC</tspan></text>
+         style="font-size:5;stroke-width:0.264583">NC</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="75.506126"
        y="148.88742"
        id="text1101"
@@ -454,10 +454,10 @@
          id="tspan1099"
          x="75.506126"
          y="148.88742"
-         style="font-size:5 ;stroke-width:0.264583">NC</tspan></text>
+         style="font-size:5;stroke-width:0.264583">NC</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:5 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="76.299866"
        y="156.11354"
        id="text1105"
@@ -467,7 +467,7 @@
          id="tspan1103"
          x="76.299866"
          y="156.11354"
-         style="font-size:5 ;stroke-width:0.264583">NC</tspan></text>
+         style="font-size:5;stroke-width:0.264583">NC</tspan></text>
     <rect
        style="opacity:0.998;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.276813;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect1107"
@@ -748,7 +748,7 @@
        height="100%" />
     <text
        xml:space="preserve"
-       style="font-size:10 ;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:10;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="96.361107"
        y="90.247322"
        id="text930"><tspan
@@ -756,6 +756,6 @@
          id="tspan928"
          x="96.361107"
          y="90.247322"
-         style="font-size:10 ;stroke-width:0.264583">Rtlduino</tspan></text>
+         style="font-size:10;stroke-width:0.264583">Rtlduino</tspan></text>
   </g>
 </svg>
